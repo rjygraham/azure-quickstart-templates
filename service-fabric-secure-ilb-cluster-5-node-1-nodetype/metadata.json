@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy an internal-only load balanced, 5 Node, Secure Cluster",
+  "description": "This template allows you to deploy an internal-only load balanced, secure, 5 node Service fabric Cluster running Windows server 2012 R2 Data center on a Standard_D2 Size VMs.",
+  "summary": "This template takes a minimum amount of parameters and deploys 5 Node Service Fabric Cluster",
+  "githubUsername": "rjygraham",
+  "dateUpdated": "2017-08-25"
+}
